@@ -1,0 +1,126 @@
+@media only screen and (max-width: 1200x) {
+
+.shapka{
+	width: 800px;
+}
+
+.nav {
+	width: 190px;
+}
+
+.photo {
+	width: 290px;
+}
+
+.photo1 {
+	width: 290px;
+}
+
+}
+
+
+@media only screen and (max-width: 800x) {
+
+.shapka{
+	width: 600px;
+}
+
+.nav {
+	width: 100px;
+}
+
+.photo {
+	width: 150px;
+}
+
+.photo1 {
+	width: 150px;
+}
+
+}
+
+
+
+
+
+
+.container{
+margin: 0 auto;
+}
+
+.service , .projects {
+	text-align: center;
+}
+
+.shapka{
+	background-color:black;
+	font-size: 50px;  
+	color: white;
+	margin-top: -60px;
+}
+
+.h1:hover {
+	color: #8A2BE2;
+	transition:  color .2s linear;
+}
+
+.nav {
+	text-transform: uppercase;
+	color: white;
+	margin-left: 50px;
+	margin-top: 150px;
+}
+
+.photo {
+	margin-top: -373px;
+	margin-left: 380px;
+
+
+}
+.photo img{
+	margin-left: 30px;
+	margin-right: 80px;
+	font-size: center;
+	display: inline-block;
+	
+}
+.photo1 {
+	margin-top: 50px;
+	margin-left: 380px;
+	display: inline-block;
+	
+}
+.photo1 img{
+	margin-right: 80px;
+	margin-left: 30px;
+	font-size: center;
+	display: inline-block;
+}
+
+.text{
+	font-size: 30px;
+ 	margin-left: 539px;
+ 	margin-top: -320px;
+}
+
+
+
+.kartinka {
+	margin-left: 1px;
+	margin-right: 1600px;
+	margin-top: -140px;
+	margin-bottom: 0px;
+	font-size: 30px;
+
+}
+
+.pidval {
+	margin-top: 450px;
+	background-color:black;
+	font-size: 60px;  
+	color: white;
+	text-align: right;
+}
+
+
+
